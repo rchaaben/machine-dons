@@ -1,2 +1,2 @@
 # machine-dons
-S2 project 
+Projet de développement à Télécom Bretagne 2015 
